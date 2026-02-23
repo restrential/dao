@@ -8,6 +8,7 @@ Translations of sacred texts and holy teachings in the Dao tradition.
 |---|---|---|
 | mileji-jiuku-2026-02-23.md | 彌勒救苦真經 — http://www.boder.idv.tw/ume5.htm | 2026-02-23 |
 | 20250615CAde1.md | White Era Holy Teaching (白陽聖訓) — Han Xiang Zi (韓湘子), June 15, 2025 (CA); tune: 別知己 | 2026-02-23 |
+| 20250622CAde1.md | White Era Holy Teaching (白陽聖訓) — Ji Dian He Shang (濟顛和尚), June 22, 2025 (CA); tune: 楚留香新傳 | 2026-02-23 |
 
 ## White Era Holy Teaching Format (白陽聖訓)
 
