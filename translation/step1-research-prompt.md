@@ -23,8 +23,8 @@ You will be given a classical Chinese text passage. Your job is to:
 
 1. Read through the passage carefully.
 
-2. Identify **5–15 phrases** that are any of the following:
-   - Chengyu (成語) or classical four-character compounds
+2. Identify **all phrases** that are any of the following:
+   - Chengyu (成語) or classical four-character compounds (or possible derivatives therein)
    - Technical / philosophical terms with pre-Tang classical history
    - Allusions to specific historical figures, events, or texts
    - Vocabulary uncommon in modern Mandarin
