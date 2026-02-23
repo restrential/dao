@@ -238,3 +238,39 @@ Produce the complete markdown document in this order:
 - Use Traditional Chinese (繁體) characters when quoting or referencing Chinese text.
 - When citing classical sources, give the Chinese title followed by a brief English gloss: e.g., 禮記 (*Book of Rites*), 莊子 (*Zhuangzi*), 金剛經 (*Diamond Sutra*).
 - For the Final Translation, include no inline annotations — it should read as clean, standalone text.
+
+---
+
+## Poetic Formatting in the Final Translation
+
+When the source Chinese is written in verse form, the Final Translation must be formatted as a poem throughout — **including any self-introduction or transitional sections**. Do not switch from verse to prose mid-text.
+
+### The "wu nai" structure
+
+Holy teachings (聖訓) often follow a characteristic three-part structure:
+
+1. **Opening verse** — paired parallel lines (couplets) in classical verse form; sets the teaching's theme
+2. **Self-introduction (吾乃 line)** — the teacher announces who they are, what decree they bear, and why they have descended; formally opens the teaching; typically begins 吾乃 [title] 奉 [Φ懿旨]
+3. **Main teaching body** — instruction, exhortation, or guidance, often also in verse
+4. **Closing** — blessing and/or the signature rhetorical question 知否 ("Do you understand?")
+
+### Rule
+
+When the Chinese contains a **wu nai prelude** (or anything structurally analogous — a poetic self-introduction followed by teaching), treat the entire text as verse. Format all sections — opening verse, self-introduction, main body, and closing — as poem lines, not prose paragraphs.
+
+**Do not** render the wu nai section as a prose block simply because it is narrative or conversational in tone. Even "I am the Holy Teacher, bearing Lao Mu's sacred decree" should break across lines the way the Chinese does — each phrase on its own line, the way the original is formatted.
+
+### Example (from dao-yin-20100530)
+
+Rather than:
+> I am the Holy Teacher, bearing Lao Mu's sacred decree. I descend into the human world, entering the Dao Yin Temple — present in unseen form, humbly attending.
+> May Lao Mu be at peace. I now address all disciples: the new hall is complete!
+
+Prefer:
+> I am the Holy Teacher, bearing Lao Mu's sacred decree —
+> descending into the human world, entering Dao Yin Temple,
+> present in unseen form, humbly attending.
+>
+> May Lao Mu be at peace.
+> I now address all disciples: the new hall is complete!
+> The temple is renewed — let joy bloom in the fields of your heart. Ha ha!
