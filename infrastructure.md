@@ -25,10 +25,11 @@ Technical infrastructure supporting the Dao nonprofit and community.
 - **Host:** Digital Ocean (same Droplet as Mattermost; Nginx routes between them)
 - `en.tongde.us` moved from `philmd.info`
 
-### Ebooks Platform
+### BookStack (Ebooks Platform)
 - **URL:** `books.tongde.us`
+- **Software:** [BookStack](https://www.bookstackapp.com/) — open-source, Docker-friendly
 - **Current host:** External (not yet self-hosted)
-- **Plan:** Migrate to Synology — downtime of ~1 hour acceptable, no need for 24/7 uptime
+- **Plan:** Migrate to Synology via Container Manager — downtime of ~1 hour acceptable, no need for 24/7 uptime
 - **Status:** [ ] To do
 
 ## To-Do
