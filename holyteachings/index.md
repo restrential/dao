@@ -9,6 +9,8 @@ Translations of sacred texts and holy teachings in the Dao tradition.
 | mileji-jiuku-2026-02-23.md | 彌勒救苦真經 — http://www.boder.idv.tw/ume5.htm | 2026-02-23 |
 | 20250615CAde1.md | White Era Holy Teaching (白陽聖訓) — Han Xiang Zi (韓湘子), June 15, 2025 (CA); tune: 別知己 | 2026-02-23 |
 | 20250622CAde1.md | White Era Holy Teaching (白陽聖訓) — Ji Dian He Shang (濟顛和尚), June 22, 2025 (CA); tune: 楚留香新傳 | 2026-02-23 |
+| 20100530NVdy.md | Holy Teaching (聖訓) — 濟公活佛, Dao Yin Temple, Las Vegas, May 30, 2010 (v1) | 2026-02-23 |
+| 20100530NVdy-v2.md | Holy Teaching (聖訓) — 濟公活佛, Dao Yin Temple, Las Vegas, May 30, 2010 (v2 — with Commentary) | 2026-02-23 |
 
 ## White Era Holy Teaching Format (白陽聖訓)
 
@@ -22,8 +24,12 @@ White Era holy teachings follow a characteristic three-part structure:
 
 **Formatting rule**: The entire teaching, including the 吾乃 line, is formatted as verse — never as prose paragraphs. See `workflow-prompt.md` → *Poetic Formatting* for the full rule.
 
+## Open Items
+
+- [ ] **Commentary audio** — integrate ElevenLabs TTS (MCP now configured) into the scripture workflow to generate audio for translated commentaries; each file is ~30–40k characters, within Creator plan range
+
 ## Notes
 
 - These texts are drawn from the living Dao spiritual lineage
 - Translations follow established terminology per `projects/dao/translation/workflow-prompt.md`
-- Each file contains the full forge pipeline: research → literal → smoothed → fidelity review → final
+- Each file contains the full forge pipeline: research → literal → smoothed → fidelity review → final → commentary (commentary added in updated workflow; v2 files and later include it)
