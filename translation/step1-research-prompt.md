@@ -1,5 +1,3 @@
----
-
 ## Step 1: Research — Key Phrases & Classical Context
 
 ### Phrases Identified

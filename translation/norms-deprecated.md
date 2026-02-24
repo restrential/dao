@@ -57,3 +57,75 @@ Entries that were previously in `norms.md` but have been retired or revised. Pre
 **Old entry:** `先天 / 後天 | primordial nature / acquired nature`
 
 **Reason:** Not deprecated outright — the original rendering is still valid — but the 1:1 lock was too rigid. In some sentence contexts, "primordial nature and acquired nature" reads awkwardly, and "innate nature / conditioned nature" is a smoother English pairing that conveys the same philosophical distinction. The entry was expanded to offer both options rather than mandating one.
+
+---
+
+## 收圓 — "the final gathering" → removed; handled organically
+
+**Old entry:** `收圓 | the final gathering (eschatological/cosmic register); gathering the circle to completion (when the literal 圓 imagery is present); the gathering home (in intimate or personal register)`
+
+**Reason:** Even in expanded contextual form, locking 收圓 to a fixed menu of renderings is too constraining. The term carries rich imagery — gathering, completion, circle, homecoming — that a careful translator should render freshly from context each time. Gemini's Phase 1 research will surface the eschatological meaning reliably. The translation workflow, attentive to the 圓 (circle/completion) imagery and the cosmological setting, will arrive at an appropriate rendering organically.
+
+---
+
+## 彼岸 — "the other shore" → removed; handled organically
+
+**Old entry:** `彼岸 | the other shore`
+
+**Reason:** One of the most standardized terms in Buddhist scholarship. Every translator and every research tool will render 彼岸 as "the other shore" without prompting. No drift risk. Maintaining the norm adds no value.
+
+---
+
+## 眾生 — "sentient beings" → removed; handled organically
+
+**Old entry:** `眾生 | sentient beings`
+
+**Reason:** The single most standardized term in Buddhist translation across all traditions and languages. Any Gemini research phase will surface "sentient beings" immediately and reliably. Maintaining a norm for it is redundant overhead.
+
+---
+
+## 道親 — "companions in Dao / fellow cultivators" → removed; handled organically
+
+**Old entry:** `道親 | companions in Dao / fellow cultivators`
+
+**Reason:** The compound is transparent — 道 (Dao) + 親 (kin/intimates) — and the two options already in the entry covered the range of sensible renderings. A translator working attentively will arrive at equivalent language. The borderline concern about drift (e.g., "Dao brothers and sisters," "fellow Dao practitioners") is acceptable variation rather than a meaningful problem in a living text.
+
+---
+
+## 修辦 — "cultivation" (standalone) → removed; redundant
+
+**Old entry:** `修辦 | cultivation`
+
+**Reason:** Redundant with the 修辦者 entry, which already handles the compound in context with both an inline shorthand and a full gloss. The standalone 修辦 entry added no additional guidance. In running text, 修辦 never appears in isolation from the人/者 nominalization or the longer descriptive context already covered.
+
+---
+
+## 普敬 — "universal reverence" → removed; handled organically
+
+**Old entry:** `普敬 | universal reverence`
+
+**Reason:** 普 (universal/all-encompassing) + 敬 (reverence/respect) is a transparent compound. A translator working from Phase 1 research will arrive at "universal reverence" or a close equivalent without guidance. The concern about drift to "universal respect" is minimal — both renderings carry the same meaning.
+
+---
+
+## 佛事 — "work of a buddha" → removed; handled organically
+
+**Old entry:** `佛事 | work of a buddha`
+
+**Reason:** 佛 (Buddha) + 事 (work/affairs) is a simple compound. The range of reasonable renderings ("the Buddha's work," "dharma work," "buddha-work") are all acceptable and close enough that enforcing a single form adds more rigidity than value.
+
+---
+
+## 六根清淨 — "six sense organs purified" → removed; handled organically
+
+**Old entry:** `六根清淨 | six sense organs purified`
+
+**Reason:** Hyper-standardized Buddhist formula. The Six Sense Faculties (eye, ear, nose, tongue, body, mind) and their purification is one of the most thoroughly documented concepts in Buddhist scholarship. Gemini will surface the standard rendering immediately and reliably.
+
+---
+
+## 三業清淨 — "three karmic actions purified" → removed; handled organically
+
+**Old entry:** `三業清淨 | three karmic actions purified`
+
+**Reason:** Same rationale as 六根清淨. The Three Karmic Actions (body, speech, mind) and their purification is a standard Buddhist formula rendered consistently across all scholarly traditions. No translation norm needed.

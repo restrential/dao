@@ -2,6 +2,8 @@
 
 Canonical reference for all translation conventions used in the forge pipeline. This is the single source of truth. `workflow-prompt.md` references this file; do not maintain separate copies of these norms there.
 
+> **Deprecation process:** When any entry is removed or superseded, move it to `norms-deprecated.md` with a brief rationale explaining why it was retired or what replaced it. Never silently delete — the decision trail matters.
+
 ---
 
 ## Pinyin
@@ -25,8 +27,6 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 | 皇Φ | Sovereign Mother |
 | 先天 / 後天 | primordial nature / acquired nature; or innate nature / conditioned nature (when sentence flow requires it) |
 | 天命 | Heavenly Mandate (where authority or decree is the register); Heavenly calling / divine charge (where the context is personal cultivation or mission) |
-| 收圓 | the final gathering |
-| 彼岸 | the other shore |
 
 ### Titles & Roles
 
@@ -48,27 +48,20 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 |---|---|
 | 後學 | humble first-person ("this humble student") |
 | 道家人 | those in the Dao family |
-| 道親 | companions in Dao / fellow cultivators |
-| 眾生 | sentient beings |
 | 修辦者 | cultivators-in-service / practitioner-servants (inline shorthand); full gloss: those who cultivate and put realizations into practice, helping others to do the same |
 
 ### Practice & Conduct
 
 | Chinese | English |
 |---|---|
-| 修辦 | cultivation |
 | 三不離 | Anchors / Adherences |
 | 迷執 | deluded attachments / entanglement |
-| 普敬 | universal reverence |
 | 謇謇 | upright and honest speech |
 | 齋 | purity — 身齋 (body), 口齋 (speech), 意齋 (thought) |
-| 佛事 | work of a buddha |
 | 佛規 | Buddhahood Precepts |
 | 天恩師德 | Divine Grace and Saintly Virtue |
 | 集義發揚 | solidifying virtue and disseminating it widely |
 | 借假修真 | using the false to cultivate the true |
-| 六根清淨 | six sense organs purified |
-| 三業清淨 | three karmic actions purified |
 
 ---
 
