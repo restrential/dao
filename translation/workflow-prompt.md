@@ -123,6 +123,8 @@ End with:
 1. An overall fidelity assessment (1–2 sentences)
 2. A list of recommended revisions to Step 3, if any
 
+**Important:** The Step 3 Rendering column must show the actual Step 3 text, and the Notes column must reflect the honest assessment of that Step 3 rendering against the original Chinese — do not pre-apply revisions or write notes that justify the final rendering. The table is a record of where Step 3 stands; the Final Translation is where revisions are applied. Someone reading the file should be able to use the Step 4 table to see exactly what changed between Step 3 and the Final Translation, and why.
+
 **Output format for Step 4:**
 
 ```
