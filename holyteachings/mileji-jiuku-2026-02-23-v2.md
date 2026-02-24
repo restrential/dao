@@ -104,19 +104,19 @@
 
 **拈花印證考三乘** — Chan Buddhism; 禪宗公案 (*Chan Koan*). 拈花印證 = the Flower Sermon: the Buddha held up a flower before the assembly; only Mahākāśyapa smiled. The Buddha then transmitted the "Treasury of the True Dharma Eye" mind-to-mind — the origin of Chan's wordless transmission. Here, Maitreya repeats and universalizes this gesture: using the flower-seal to test all Three Vehicles (Śrāvakayāna, Pratyekabuddhayāna, Bodhisattvayāna), not only elite adepts.
 
-**天真收圓掛聖號** — I-Kuan Tao theology. 天真 = the title of Zhang Tianran (張天然), the 18th Patriarch; his posthumous name is 天然古佛 and he is referred to in I-Kuan Tao texts as 天真. 收圓 = "gathering the circle to completion" — the final eschatological harvest of original souls before the kalpa ends. 掛聖號 = establishing the salvific order under Maitreya's authority.
+**天真收圓掛聖號** — Salvationist theology of this tradition. 天真 = the title of Zhang Tianran (張天然), the 18th Patriarch; his posthumous name is 天然古佛 and he is referred to in the tradition's texts as 天真. 收圓 = "gathering the circle to completion" — the final eschatological harvest of original souls before the kalpa ends. 掛聖號 = establishing the salvific order under Maitreya's authority.
 
 **雲雷震開戊己土** — Daoist/Yijing cosmology. 戊己 = two Celestial Stems associated with the Earth phase and the cosmological center. A cataclysmic image: cloud and thunder split open the central earth, disrupting the old cosmic order to usher in the new.
 
-**老母降下通天竅** — Salvationist theology + Daoist inner alchemy. 老母 = the Unborn Venerable Mother (無生老母), the supreme cosmic mother in I-Kuan Tao. 通天竅 = the "Heaven-Connecting Aperture" — specifically the 玄關竅 (Mysterious Pass), the spiritual point on the forehead opened by the transmitting master at I-Kuan Tao initiation. This is not a generic metaphor; it refers to the concrete ritual act of transmission.
+**老母降下通天竅** — Salvationist theology + Daoist inner alchemy. 老母 = the Unborn Venerable Mother (無生老母), the supreme cosmic mother in this tradition. 通天竅 = the "Heaven-Connecting Aperture" — specifically the 玄關竅 (Mysterious Pass), the spiritual point on the forehead opened by the transmitting master at Dao-transmission. This is not a generic metaphor; it refers to the concrete ritual act of transmission.
 
-**無影山前對合同** — I-Kuan Tao ritual. 無影山 = "Shadowless Mountain" — the formless place of cosmic judgment and salvation. 對合同 = "presenting the covenant seal" — the secret hand mudra (子亥 position at the middle dantian) taught at Dao transmission; it functions as a spiritual passport that identifies the initiate at the gates of Heaven.
+**無影山前對合同** — Initiatic ritual of this tradition. 無影山 = "Shadowless Mountain" — the formless place of cosmic judgment and salvation. 對合同 = "presenting the covenant seal" — the secret hand mudra (子亥 position at the middle dantian) taught at Dao transmission; it functions as a spiritual passport that identifies the initiate at the gates of Heaven.
 
 **嬰兒 / 鄉兒 / 原人** — Salvationist theology. "Infant souls" / "children of the homeland" / "original souls" — all names for sentient beings who fell from the Mother's side into reincarnation and have forgotten their divine origin. The cosmological narrative is one of exile and return: we are all infants separated from the Mother, now being called home.
 
 **點鐵化成金** — Daoist alchemy; 抱朴子 (*Baopuzi*). "Touch iron — it turns to gold." The supreme feat of the alchemist, metaphorized: the master's "pointing" (pointing to the 玄關竅 at initiation) transforms the ordinary person (iron) into a realized being (gold).
 
-**牢栓意馬念無生** — Chan/Daoist psychology + I-Kuan Tao liturgy. 意馬 = "horse of the will" from 心猿意馬 (monkey-mind, horse-will) — the classical metaphor for the restless, uncontrollable mind. 念無生 is doubly resonant: (1) Buddhist: contemplating anutpāda, the unborn/deathless nature of reality; (2) I-Kuan Tao: chanting the name of the Unborn Venerable Mother (無生老母) — "the Unborn." The practitioner who tames the mind discovers both meanings at once.
+**牢栓意馬念無生** — Chan/Daoist psychology + salvationist liturgy of this tradition. 意馬 = "horse of the will" from 心猿意馬 (monkey-mind, horse-will) — the classical metaphor for the restless, uncontrollable mind. 念無生 is doubly resonant: (1) Buddhist: contemplating anutpāda, the unborn/deathless nature of reality; (2) salvationist liturgy: chanting the name of the Unborn Venerable Mother (無生老母) — "the Unborn." The practitioner who tames the mind discovers both meanings at once.
 
 **紅陽了道 / 轉到三陽彌勒尊** — Three-Epoch eschatology (三陽劫). Red Yang epoch (second era, Śākyamuni's age) has fulfilled its purpose and concluded. The age now turns to the Third Sun Era — the White Yang epoch — under Maitreya's authority.
 
@@ -128,13 +128,13 @@
 
 ## Research Summary — Gleaned Insights
 
-- **The 玄關竅 must be named precisely:** 通天竅 is not a generic "opening to heaven" — it is the specific initiatic acupuncture point on the forehead, the central rite of I-Kuan Tao transmission. The translation should preserve its ritual concreteness: "the Aperture That Opens to Heaven" with capitalization to signal its sacred, specific character.
+- **The 玄關竅 must be named precisely:** 通天竅 is not a generic "opening to heaven" — it is the specific initiatic acupuncture point on the forehead, the central rite of Dao-transmission in this tradition. The translation should preserve its ritual concreteness: "the Aperture That Opens to Heaven" with capitalization to signal its sacred, specific character.
 
 - **無皇 ≠ 老母 generically:** While both refer to the Unborn Venerable Mother, 無皇 is the imperial register — the Sovereign issuing a cosmic decree. Render as "the Unborn Sovereign" (distinct from "Heavenly Mother") to honor the authority-register of this line.
 
-- **念無生 carries a double meaning:** "Contemplate the Unborn" (Buddhist anutpāda) AND "chant the name of the Unborn [Mother]" (I-Kuan Tao liturgy). The translation cannot capture both simultaneously; "contemplate the Unborn" is the broader and more spiritually resonant choice, encompassing both.
+- **念無生 carries a double meaning:** "Contemplate the Unborn" (Buddhist anutpāda) AND "chant the name of the Unborn [Mother]" (salvationist liturgy of this tradition). The translation cannot capture both simultaneously; "contemplate the Unborn" is the broader and more spiritually resonant choice, encompassing both.
 
-- **天真 is the Patriarch's title:** In I-Kuan Tao context, 天真 is not a generic term for divine beings — it refers specifically to Zhang Tianran (天然古佛). "The Patriarch" is the correct rendering; "the Holy Ones" (v1) was slightly too general.
+- **天真 is the Patriarch's title:** In this tradition, 天真 is not a generic term for divine beings — it refers specifically to Zhang Tianran (天然古佛). "The Patriarch" is the correct rendering; "the Holy Ones" (v1) was slightly too general.
 
 - **嬰兒 must remain an infant throughout:** The shift in v1 from "the infant soul" to "you who long to return home" lost the cosmological metaphor of exile and return. In v2, preserve 嬰兒 as "the infant soul" — it recurs structurally (lines 19 and 65) and anchors the text's emotional core.
 
@@ -195,7 +195,7 @@
 → The ancient plan [gǔ cè: primordial strategy] of Hunyuan [hùn yuán: the primordial undivided unity before Heaven and Earth separated] is at the center [zhōng yāng]
 
 老母降下通天竅
-→ Heavenly Mother sends down [jiàng xià: bestows from above] the Aperture That Opens to Heaven [tōng tiān qiào: the 玄關竅 — the initiatic point on the forehead opened at I-Kuan Tao Dao-transmission]
+→ Heavenly Mother sends down [jiàng xià: bestows from above] the Aperture That Opens to Heaven [tōng tiān qiào: the 玄關竅 — the initiatic point on the forehead opened at Dao-transmission]
 
 無影山前對合同
 → Before the Shadowless Mountain [wú yǐng shān: the formless place of cosmic judgment] — present/verify [duì: match against] the sacred covenant seal [hé tong: the initiatic hand mudra received at Dao-transmission; the spiritual passport]
@@ -363,7 +363,7 @@
 → Arise in recitation of the true mantra [niàn qǐ zhēn yán] and return to the Buddha's decree [guī fó lìng: return to one's Buddha-nature / the command of the Buddha]
 
 南無天元太保
-→ Nāmo Tiānyuán Tàibǎo [Homage to the Primordial Heaven's Great Guardian — an honorific title in I-Kuan Tao liturgy]
+→ Nāmo Tiānyuán Tàibǎo [Homage to the Primordial Heaven's Great Guardian — an honorific title in the tradition's liturgy]
 
 阿彌陀佛十叩首
 → Amitābha Buddha — ten prostrations [shí kòu shǒu: ten full bows, forehead to the ground]
@@ -626,7 +626,7 @@ This sutra opens with a gesture of borrowed authority. "As proclaimed by the Bud
 
 The first movement establishes Maitreya's credentials in layers. He receives the holy treasure at the sacred mountains of Shandong — not in India, not at Vulture Peak in its original location, but here, in the Confucian heartland of China. The Dharma has traveled west to east and taken root. Then comes the most arresting image of the opening: *the flower of Chan transmission*. When the Buddha held up a flower before the assembly at Vulture Peak, only Mahākāśyapa understood — and in that single smile the wordless mind-to-mind transmission of Chan was born. Now, according to this sutra, Maitreya repeats that gesture — but universally, testing not one adept but all Three Vehicles at once. The elite transmission has become the final examination. The age of dharma-for-the-few is over; the age of dharma-for-all has begun.
 
-The second movement introduces the cosmic Mother. She is not a supporting figure in this text — she is the axis around which everything turns. Personally abiding in the kindly heaven, she is simultaneously the source of the jade thread (the salvific lifeline lowered to her children below), the center of the two poles joined in a single lineage, and the one who sends down the Aperture That Opens to Heaven. That aperture — the 玄關竅, the Mysterious Pass on the forehead — is the central rite of I-Kuan Tao initiation. This is where the transmitting master "points" the acupuncture point at the moment of Dao-transmission, opening the direct channel between the initiate and Heaven. The sutra is not speaking in metaphor here; it is naming a ritual. And it frames that ritual as the Mother's personal gift — an act of grace descending from the benevolent heaven into this body, at this moment, right here.
+The second movement introduces the cosmic Mother. She is not a supporting figure in this text — she is the axis around which everything turns. Personally abiding in the kindly heaven, she is simultaneously the source of the jade thread (the salvific lifeline lowered to her children below), the center of the two poles joined in a single lineage, and the one who sends down the Aperture That Opens to Heaven. That aperture — the 玄關竅, the Mysterious Pass on the forehead — is the central rite of Dao initiation in this tradition. This is where the transmitting master "points" the acupuncture point at the moment of Dao-transmission, opening the direct channel between the initiate and Heaven. The sutra is not speaking in metaphor here; it is naming a ritual. And it frames that ritual as the Mother's personal gift — an act of grace descending from the benevolent heaven into this body, at this moment, right here.
 
 The instruction that follows is stark in its simplicity. *The infant soul who longs to return home — uphold and recite the Coming Maitreya Sutra.* The infant metaphor is one of the sutra's most persistent images. We are all infants, the text insists — original souls who fell from the Mother's side into reincarnation and forgot where we came from. The spiritual life is not self-improvement; it is homecoming. This shifts the emotional register entirely. We are not disciplined adults climbing a ladder of merit; we are lost children, and the Mother is calling.
 

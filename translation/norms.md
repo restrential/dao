@@ -102,6 +102,7 @@ These phrases appear across multiple teachings and have established English form
 
 ## Style Rules
 
+- **Do not name I-Kuan Tao (一貫道) explicitly** in any translation, commentary, or research note. This tradition is the wellspring of many texts translated here, but naming it is polarizing and misleading — I-Kuan Tao has evolved into its own distinct religious entity, and our work does not represent that organization. Refer instead to "this tradition," "the salvationist tradition," "the White Era tradition," or "Dao-transmission" as context requires.
 - Use **Traditional Chinese** (繁體) characters when quoting or referencing Chinese text. Never Simplified.
 - When citing classical sources, give the Chinese title followed by a brief English gloss: 禮記 (*Book of Rites*), 莊子 (*Zhuangzi*), 金剛經 (*Diamond Sutra*).
 - For the **Final Translation**, include no inline annotations — it should read as clean, standalone text.

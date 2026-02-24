@@ -38,23 +38,22 @@ Using both as context, produce the following steps in order. Do not skip any ste
 
 ### Research Summary — Gleaned Insights
 
-Before translating, synthesize what you learned from Step 1 into a short, actionable brief:
+Before translating, synthesize what you learned from Step 1 into an actionable brief:
 
-- What are the 3–6 most translation-critical insights from the research?
 - Which classical allusions must be honored in the English rendering, and how?
 - Are there any terms where the classical source changes or deepens the expected meaning?
 - Are there any pitfalls — phrases that look simple but carry hidden classical weight?
 - Any established terminology from `norms.md` that applies here?
 
-This section is a bridge: it distills research into translation decisions.
+This section is a bridge: it distills research into translation decisions. **Coverage-based, not count-based** — a short lyric may need 4–6 entries; a long or densely allusive text may need 10 or more. The failure mode is rushing past allusions that will affect translation choices.
 
 **Output format:**
 
 ```
 ## Research Summary — Gleaned Insights
 
-- **[insight heading]:** [1–2 sentences]
-- **[insight heading]:** [1–2 sentences]
+- **[insight heading]:** [explanation — as long as needed to capture the translation implication]
+- **[insight heading]:** [explanation]
 ...
 ```
 
