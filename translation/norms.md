@@ -22,9 +22,9 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 | 道 | Dao (not "the Tao"; omit the article "the" before Dao) |
 | 白陽時期 | the White Era |
 | Φ / 申 (self-introduction in holy teachings) | (Lao) Mu / Heavenly Mother / God — whichever fits context |
-| 皇Φ | Imperial Mother |
-| 先天 / 後天 | primordial nature / acquired nature |
-| 天命 | Heavenly Mandate |
+| 皇Φ | Sovereign Mother |
+| 先天 / 後天 | primordial nature / acquired nature; or innate nature / conditioned nature (when sentence flow requires it) |
+| 天命 | Heavenly Mandate (where authority or decree is the register); Heavenly calling / divine charge (where the context is personal cultivation or mission) |
 | 收圓 | the final gathering |
 | 彼岸 | the other shore |
 
@@ -38,8 +38,9 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 | 老前人 | Grand Elder |
 | 前人 | Elder |
 | 點傳師 | transmitting master(s) |
-| 佛堂 / 道場 | temple |
-| 壇主 | Temple host |
+| 佛堂 | prayer hall / altar room (domestic or private setting); "temple" as fallback |
+| 道場 | temple / practice hall (communal setting) |
+| 壇主 | Altar keeper |
 
 ### People & Community
 
@@ -49,7 +50,7 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 | 道家人 | those in the Dao family |
 | 道親 | companions in Dao / fellow cultivators |
 | 眾生 | sentient beings |
-| 修辦者 / 修辦 | cultivators who put realizations into practice and help others cultivate |
+| 修辦者 | cultivators-in-service / practitioner-servants (inline shorthand); full gloss: those who cultivate and put realizations into practice, helping others to do the same |
 
 ### Practice & Conduct
 
