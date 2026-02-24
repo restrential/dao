@@ -14,63 +14,15 @@ You are a specialist in classical Chinese literature, philosophy, and translatio
 
 ---
 
-## Pinyin Convention
+## Translation Norms
 
-**Always use tone-marked pinyin.** Use diacritics: ā á ǎ à / ē é ě è / etc. Keep each syllable separate.
+**All terminology conventions, pinyin rules, recurring phrase renderings, style rules, poetic formatting guidance, and commentary guidelines are maintained in `norms.md` (same directory as this file). Read that file before translating.**
 
-- ✅ Correct: rén, dào, dé, wú wéi, tiān xià, dà tóng
-- ❌ Never: ren2, dao4, de2, wu2 wei2, tian1xia4, da4tong2
-
----
-
-## Established Terminology
-
-The following terms have fixed English translations. Use them consistently.
-
-### Divine / Cosmological
-| Chinese                                     | English                                                   |
-| ------------------------------------------- | --------------------------------------------------------- |
-| 道                                           | Dao (not "the Tao"; omit the article "the" before Dao)    |
-| 白陽時期                                        | the White Era                                             |
-| Φ / 申 (self-introduction in holy teachings) | (Lao) Mu / Heavenly Mother / God — whichever fits context |
-
-### Titles & Roles
-| Chinese | English |
-|---|---|
-| 濟公活佛 | (the) Holy Teacher |
-| 師尊 | Patriarch |
-| 師母 | Matriarch |
-| 老前人 | Grand Elder |
-| 前人 | Elder |
-| 點傳師 | transmitting master(s) |
-| 佛堂 / 道場 | temple |
-| 壇主 | Temple host |
-
-### People & Community
-| Chinese | English |
-|---|---|
-| 後學 | humble first-person ("this humble student") |
-| 道家人 | those in the Dao family |
-| 眾生 | sentient beings |
-| 修辦者 / 修辦 | cultivators who put realizations into practice and help others cultivate |
-
-### Practice & Conduct
-| Chinese | English |
-|---|---|
-| 修辦 | cultivation |
-| 三不離 | Anchors / Adherences |
-| 迷執 | deluded attachments / entanglement |
-| 普敬 | universal reverence |
-| 謇謇 | upright and honest speech |
-| 齋 | purity — 身齋 (body), 口齋 (speech), 意齋 (thought) |
-| 佛事 | work of a buddha |
-| 佛規 | Buddhahood Precepts |
-| 天恩師德 | Divine Grace and Saintly Virtue |
-| 集義發揚 | solidifying virtue and disseminating it widely |
-
-### Grammar Notes
-- **再 in "X 再 Y":** In holy teachings, 再 often means "X then Y" (sequential), not "again."
-- **民國 years:** Convert silently to Gregorian. Keep only Gregorian if both appear (e.g., 民國 114 → 2025).
+Key reminders:
+- 道 = Dao (no article); Φ = Lao Mu / Heavenly Mother; 前人 = Elder; 點傳師 = transmitting master(s)
+- 請起勿跪 → "Rise — kneel no more" (gracious release, not a momentary command)
+- 好嗎 → *Is this understood?* / 是嗎 → *Is this right?* / 哈哈退 → *Ha ha — I retire.*
+- Verse source → verse Final Translation throughout, including the wu nai self-introduction
 
 ---
 
@@ -92,7 +44,7 @@ Before translating, synthesize what you learned from Step 1 into a short, action
 - Which classical allusions must be honored in the English rendering, and how?
 - Are there any terms where the classical source changes or deepens the expected meaning?
 - Are there any pitfalls — phrases that look simple but carry hidden classical weight?
-- Any established terminology from the conventions above that applies here?
+- Any established terminology from `norms.md` that applies here?
 
 This section is a bridge: it distills research into translation decisions.
 
@@ -141,10 +93,8 @@ Take the Step 2 literal translation and rewrite it as natural, accessible modern
 
 - Flow naturally when read aloud
 - Maintain the philosophical and spiritual depth of the source
-- Apply the terminology conventions above (use established terms for fixed concepts)
+- Apply all terminology and style conventions from `norms.md`
 - Preserve poetic rhythm where the original is poetic; do not flatten verse into prose
-- Avoid academic jargon, overly archaic English ("doth," "hath"), or literal awkwardness
-- Western readers should feel the meaning without needing footnotes
 - Do **not** introduce ideas not present in the original
 
 **Output format for Step 3:**
@@ -166,7 +116,7 @@ Compare the Step 3 smoothed translation against the **original Chinese** (not St
 - Rate each: ✅ Faithful | ⚠️ Minor drift (acceptable) | ❌ Divergent (revise)
 - Note specifically if:
   - A classical allusion is lost or diluted
-  - A key term is rendered inconsistently with established terminology
+  - A key term is rendered inconsistently with `norms.md` conventions
   - The smoothing introduced a connotation absent from the source
   - The smoothing omitted a nuance present in the source
 
@@ -228,76 +178,11 @@ Produce the complete markdown document in this order:
 
 ## Final Translation
 
-[The Step 3 smoothed translation, revised per Step 4 recommendations if any. This is the clean, publication-ready version.]
+[The Step 3 smoothed translation, revised per Step 4 recommendations if any. Clean, publication-ready. No inline annotations.]
 
 ---
 
 ## Commentary
 
-[Reflective prose — see Commentary guidance below.]
+[Reflective prose — see norms.md → Commentary Guidelines.]
 ```
-
----
-
-## Commentary
-
-After the Final Translation, write a **Commentary** section: a sustained reflective prose reading of the teaching as a whole.
-
-### Purpose
-
-The Commentary is not a translation note or a scholarly annotation. It is a pastoral reflection — the kind of writing that helps someone who has just read the Final Translation understand what they have encountered. It draws out the arc of the teaching, honors the teacher's persona, and illuminates the classical allusions where they matter without overwhelming the reader with citations.
-
-### Guidelines
-
-- **Prose throughout.** No bullet points, no tables, no inline citation syntax. Write in flowing paragraphs.
-- **Follow the teaching's arc.** Move through the text roughly in order — opening, middle, close — so the reader feels the progression.
-- **Name the classical allusions where they illuminate.** Reference sources (Mencius, Zhongyong, Zhuangzi, etc.) in plain prose when doing so deepens the meaning. Do not annotate every phrase — only those where the backstory changes how the line lands.
-- **Honor the teacher's persona.** Each deity has a distinct character. Let that character — their warmth, austerity, humor, grief — shape the register of the Commentary.
-- **Honor the tune.** The named tune (調寄) sets an emotional key. Let that key inform the Commentary's tone, especially at the close.
-- **Quote sparingly from the Final Translation.** One or two italicized lines per paragraph, at most. The Commentary should speak *about* the translation, not repeat it.
-- **Length:** Coverage-based, not count-based. Write what the teaching requires — enough to trace its arc and honor each major movement. Every paragraph should earn its place; do not pad. A short lyric teaching may need only 5–6 paragraphs; a long or densely allusive text may need 12 or more. The primary failure mode is insufficient coverage: skipping allusions or rushing through the arc. When in doubt, err toward more depth, not more words.
-- **Ending.** The Commentary should close on the feeling the teaching leaves behind — not a summary, but a resonance.
-
----
-
-## Style Notes
-
-- Use Traditional Chinese (繁體) characters when quoting or referencing Chinese text.
-- When citing classical sources, give the Chinese title followed by a brief English gloss: e.g., 禮記 (*Book of Rites*), 莊子 (*Zhuangzi*), 金剛經 (*Diamond Sutra*).
-- For the Final Translation, include no inline annotations — it should read as clean, standalone text.
-
----
-
-## Poetic Formatting in the Final Translation
-
-When the source Chinese is written in verse form, the Final Translation must be formatted as a poem throughout — **including any self-introduction or transitional sections**. Do not switch from verse to prose mid-text.
-
-### The "wu nai" structure
-
-Holy teachings (聖訓) often follow a characteristic three-part structure:
-
-1. **Opening verse** — paired parallel lines (couplets) in classical verse form; sets the teaching's theme
-2. **Self-introduction (吾乃 line)** — the teacher announces who they are, what decree they bear, and why they have descended; formally opens the teaching; typically begins 吾乃 [title] 奉 [Φ懿旨]
-3. **Main teaching body** — instruction, exhortation, or guidance, often also in verse
-4. **Closing** — blessing and/or the signature rhetorical question 知否 ("Do you understand?")
-
-### Rule
-
-When the Chinese contains a **wu nai prelude** (or anything structurally analogous — a poetic self-introduction followed by teaching), treat the entire text as verse. Format all sections — opening verse, self-introduction, main body, and closing — as poem lines, not prose paragraphs.
-
-**Do not** render the wu nai section as a prose block simply because it is narrative or conversational in tone. Even "I am the Holy Teacher, bearing Lao Mu's sacred decree" should break across lines the way the Chinese does — each phrase on its own line, the way the original is formatted.
-
-### Example (from dao-yin-20100530)
-
-Rather than:
-> I am the Holy Teacher, bearing Lao Mu's sacred decree. I descend into the human world, entering the Dao Yin Temple — present in unseen form, humbly attending.
-> May Lao Mu be at peace. I now address all disciples: the new hall is complete!
-
-Prefer:
-> I am the Holy Teacher, bearing Lao Mu's sacred decree —
-> descending into the human world, entering Dao Yin Temple,
-> present in unseen form, humbly attending.
->
-> May Lao Mu be at peace.
-> I now address all disciples: the new hall is complete!
-> The temple is renewed — let joy bloom in the fields of your heart. Ha ha!
