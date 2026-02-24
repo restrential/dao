@@ -129,3 +129,19 @@ Entries that were previously in `norms.md` but have been retired or revised. Pre
 **Old entry:** `三業清淨 | three karmic actions purified`
 
 **Reason:** Same rationale as 六根清淨. The Three Karmic Actions (body, speech, mind) and their purification is a standard Buddhist formula rendered consistently across all scholarly traditions. No translation norm needed.
+
+---
+
+## 後學 — "this humble student" (fixed phrase) → replaced by descriptive rule
+
+**Old entry:** `後學 | humble first-person ("this humble student")`
+
+**Reason:** The fixed phrase "this humble student," repeated verbatim across a long teaching, becomes wooden and formulaic — the opposite of the natural humility it is meant to convey. The spirit of 後學 is a posture, not a formula. The norm was updated to a descriptive rule: use a humble first-person construction appropriate to the context, with "this humble student" as the default and "I, your junior" or a bracketed note at first appearance as acceptable alternatives. The flexibility allows the translator to honor the register without mechanical repetition.
+
+---
+
+## 三不離 — "Anchors / Adherences" → consolidated to "the Three Anchors"
+
+**Old entry:** `三不離 | Anchors / Adherences`
+
+**Reason:** "Adherences" was always the weaker option — slightly clinical, slightly awkward as a plural noun. "The Three Anchors" is compact, evocative, and self-sufficient; it suggests stability and foundation without requiring explanation. Offering two options invited inconsistency. The norm was consolidated to a single primary form: "the Three Anchors," with a gloss on first use explaining that the three are the prayer hall, the teachers, and the classics.

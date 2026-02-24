@@ -25,7 +25,7 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 | 白陽時期 | the White Era |
 | Φ / 申 (self-introduction in holy teachings) | (Lao) Mu / Heavenly Mother / God — whichever fits context |
 | 皇Φ | Sovereign Mother |
-| 先天 / 後天 | primordial nature / acquired nature; or innate nature / conditioned nature (when sentence flow requires it) |
+| 先天 / 後天 | primordial nature / acquired nature; innate nature / conditioned nature (sentence flow); pre-heaven / post-heaven or pre-celestial / post-celestial (neidan / inner alchemy contexts) |
 | 天命 | Heavenly Mandate (where authority or decree is the register); Heavenly calling / divine charge (where the context is personal cultivation or mission) |
 
 ### Titles & Roles
@@ -46,15 +46,15 @@ Canonical reference for all translation conventions used in the forge pipeline. 
 
 | Chinese | English |
 |---|---|
-| 後學 | humble first-person ("this humble student") |
+| 後學 | Humble first-person; render with a construction natural to the context. "This humble student" is the default; "I, your junior" or simply "I" with a bracketed note on the humble posture at first appearance are acceptable alternatives. |
 | 道家人 | those in the Dao family |
-| 修辦者 | cultivators-in-service / practitioner-servants (inline shorthand); full gloss: those who cultivate and put realizations into practice, helping others to do the same |
+| 修辦者 | cultivators-in-service / practitioner-servants (inline shorthand); those who cultivate and serve (simpler inline); full gloss: those who cultivate and put realizations into practice, helping others to do the same |
 
 ### Practice & Conduct
 
 | Chinese | English |
 |---|---|
-| 三不離 | Anchors / Adherences |
+| 三不離 | the Three Anchors |
 | 迷執 | deluded attachments / entanglement |
 | 謇謇 | upright and honest speech |
 | 齋 | purity — 身齋 (body), 口齋 (speech), 意齋 (thought) |
