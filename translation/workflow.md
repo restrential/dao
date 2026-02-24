@@ -13,6 +13,7 @@ Applies to: DDJ, 禮運大同篇, holy teachings, sutras, and any classical Chin
 | 2. Literal | **Claude Sonnet** | Word-for-word, true-to-meaning translation informed by research |
 | 3. Smooth | **Claude Sonnet** | Rewrite the literal into natural, modern, culturally appropriate English |
 | 4. Review | **Claude Sonnet** | Compare smooth against the original Chinese to verify fidelity; flag any drift |
+| 5. Commentary | **Claude Sonnet** | Reflective prose reading of the teaching as a whole; draws out the arc, honors the teacher's persona and tune |
 
 ### Why two models?
 - **Gemini** runs `google_web_search` autonomously to look up classical allusions across the open web. This grounds the research in actual sources.
@@ -110,6 +111,12 @@ Each run produces a structured markdown file:
 ## Final Translation
 
 [Approved smoothed translation, after incorporating any Step 4 revisions]
+
+---
+
+## Commentary
+
+[Reflective prose reading of the teaching — see workflow-prompt.md for full guidance]
 ```
 
 ## Terminology Conventions

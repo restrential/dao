@@ -229,7 +229,34 @@ Produce the complete markdown document in this order:
 ## Final Translation
 
 [The Step 3 smoothed translation, revised per Step 4 recommendations if any. This is the clean, publication-ready version.]
+
+---
+
+## Commentary
+
+[Reflective prose — see Commentary guidance below.]
 ```
+
+---
+
+## Commentary
+
+After the Final Translation, write a **Commentary** section: a sustained reflective prose reading of the teaching as a whole.
+
+### Purpose
+
+The Commentary is not a translation note or a scholarly annotation. It is a pastoral reflection — the kind of writing that helps someone who has just read the Final Translation understand what they have encountered. It draws out the arc of the teaching, honors the teacher's persona, and illuminates the classical allusions where they matter without overwhelming the reader with citations.
+
+### Guidelines
+
+- **Prose throughout.** No bullet points, no tables, no inline citation syntax. Write in flowing paragraphs.
+- **Follow the teaching's arc.** Move through the text roughly in order — opening, middle, close — so the reader feels the progression.
+- **Name the classical allusions where they illuminate.** Reference sources (Mencius, Zhongyong, Zhuangzi, etc.) in plain prose when doing so deepens the meaning. Do not annotate every phrase — only those where the backstory changes how the line lands.
+- **Honor the teacher's persona.** Each deity has a distinct character. Let that character — their warmth, austerity, humor, grief — shape the register of the Commentary.
+- **Honor the tune.** The named tune (調寄) sets an emotional key. Let that key inform the Commentary's tone, especially at the close.
+- **Quote sparingly from the Final Translation.** One or two italicized lines per paragraph, at most. The Commentary should speak *about* the translation, not repeat it.
+- **Length:** Coverage-based, not count-based. Write what the teaching requires — enough to trace its arc and honor each major movement. Every paragraph should earn its place; do not pad. A short lyric teaching may need only 5–6 paragraphs; a long or densely allusive text may need 12 or more. The primary failure mode is insufficient coverage: skipping allusions or rushing through the arc. When in doubt, err toward more depth, not more words.
+- **Ending.** The Commentary should close on the feeling the teaching leaves behind — not a summary, but a resonance.
 
 ---
 
