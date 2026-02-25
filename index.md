@@ -25,4 +25,5 @@ Teaching others about the sacred Dao message.
   - @projects/dao/translation/ddj.md — Translating the Dao De Jing (道德經)
   - @projects/dao/translation/liji-datong.md — Translating 禮運大同篇 (The Great Harmony) from the Book of Rites
   - @projects/dao/translation/tianran-101/index.md — 天然師尊叮嚀心語101則 (Patriarch Tianran's 101 Heartfelt Admonitions); trilingual ZH/EN/ES import
+- @projects/dao/digitization/index.md — Digitizing physical media archive (audio cassettes, VHS, VCD/DVD, audio CDs, books)
 - @projects/temple-infrastructure/index.md — Technical infrastructure (Mattermost, Ghost, ebooks, self-hosting)
