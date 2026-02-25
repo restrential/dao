@@ -72,9 +72,4 @@ _Log each completed batch here. Detailed logs may be broken into separate files 
 
 ## Open Items
 
-- [ ] Audit physical media — full inventory count per type
-- [ ] Decide NAS folder structure before first batch
-- [ ] Acquire any missing hardware (see digitization-specialist agent for recommendations)
-- [ ] Determine whether existing Zoom recording pipeline (Flask/Box) can be reused for any video ingest
-- [ ] Establish OCR workflow for Chinese-language books (Document AI aborted 2026-02-25 — evaluate Tesseract or ABBYY as replacement)
-- [ ] Connect book OCR output to `projects/dao/translation/` workflow once first text is digitized
+See `projects/dao/todo.md` — Digitization section.

@@ -2,6 +2,12 @@
 
 Translating nuanced spiritual Chinese text into culturally streamlined and intuitive modern English.
 
+## Translation Queue
+
+See `projects/dao/todo.md` — Translation section.
+
+---
+
 ## Goals
 - Preserve the depth and nuance of the original Chinese
 - Avoid overly literal or academic phrasing
