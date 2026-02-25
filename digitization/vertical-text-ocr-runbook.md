@@ -96,9 +96,34 @@ curl -sL "https://mm.tongde.us/files/..." -o /tmp/input.pdf
 | Standalone page numbers on their own line | `re.sub(r'(?m)^\d{1,2}$', '', text)` |
 | Multi-digit page numbers (10, 11, 12) split across two lines | Same regex handles this |
 | Visually similar characters misread (e.g., 消 vs 逍) | Spot-check poem/verse sections against page images |
-| Special Dao honorific symbols `〈 〉` dropped | Restore manually from images; `老〈` = 老前人, `〈恩` = 師恩 |
+| Special Dao honorific symbols `〈 〉` dropped | Restore manually from images; use `Φ` as the honorific placeholder: `老Φ` = 老母 (Eternal Mother / 無生老母); `Φ前` = before the Mother; `Φ心` = Mother's heart; `朝Φ顏` = bow to the Mother's face |
 | `│` characters (Word layout artifacts) | Remove or replace with comma/nothing |
+| Vertical-form punctuation (brackets, parentheses, braces) | Convert to horizontal equivalents — see `sed` command below |
 | Sentence-final punctuation starting next column | Normal for vertical→horizontal conversion; no fix needed |
+
+### Vertical-Form Punctuation Normalization
+
+Vertical-layout PDFs encode brackets, parentheses, and braces in their rotated Unicode forms. After extraction, convert all to standard horizontal forms:
+
+| Vertical form | Horizontal form | Name |
+|---|---|---|
+| `﹁` `﹂` | `「` `」` | Single corner brackets (most common) |
+| `﹃` `﹄` | `『` `』` | Double corner brackets |
+| `︵` `︶` | `（` `）` | Full-width parentheses |
+| `︷` `︸` | `｛` `｝` | Full-width curly braces |
+| `︹` `︺` | `〔` `〕` | Lenticular brackets |
+| `︻` `︼` | `【` `】` | Black lenticular brackets |
+
+```bash
+sed -i '' \
+  's/﹁/「/g; s/﹂/」/g; \
+   s/﹃/『/g; s/﹄/』/g; \
+   s/︵/（/g; s/︶/）/g; \
+   s/︷/｛/g; s/︸/｝/g; \
+   s/︹/〔/g; s/︺/〕/g; \
+   s/︻/【/g; s/︼/】/g' \
+  /path/to/output-zh.md
+```
 
 ---
 

@@ -6,7 +6,7 @@ Single source of truth for all pending tasks across the Dao project. Sub-project
 
 ## Translation
 
-- [ ] **率真進修錄** — next translation; source PDF at https://tongde.app.box.com/s/eb5qpnv0rkws78pgmmcu3mjyoxuvh5jb (vertical Traditional Chinese; use `digitization/vertical-text-ocr-runbook.md`)
+- [x] **率真進修錄** — source text imported (`translation/lv-zhen-jin-xiu-lu/`); English translation not yet started
 - [x] **修天道** — source text imported (`translation/xiu-tian-dao/`); English translation not yet started
 - [ ] Continue DDJ translation (`translation/ddj/`)
 - [ ] Continue 禮運大同篇 translation (`translation/liji-datong/`)
